@@ -32,3 +32,24 @@ C <- 5
 (A <= B) && (B <= C) R// (V && F) -> F
 (A <= B) || (B <= C) R// (V || F) -> V
 (A >= B)! && (B <= C)! R// (V && V) -> V 
+
+
+Ejecicios Libro Fundamentos de Programación de Luis Joyanes Aguilar Pag Libro->155 PDF->185
+4.1 al 4.10 
+
+4.1 a
+Algoritmo Angulo_90_grados
+var
+    Entero: angulo
+inicio
+    leer angulo
+    angulo <- 70
+    si angulo == 90 entonces
+        mostrar "El ángulo es un ángulo recto"
+    si_no
+        mostrar "El ángulo no es un ángulo recto"
+    fin_si 
+fin    
+
+![image](https://github.com/user-attachments/assets/0dca524f-856c-4592-aa59-da05eab972ed)
+
