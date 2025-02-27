@@ -35,7 +35,7 @@ C <- 5
 
 
 Ejecicios Libro Fundamentos de Programación de Luis Joyanes Aguilar Pag Libro->155 PDF->185
-4.1 al 4.10 
+4.1 al 4.10 Pseudocodigo + Diagrama de flujo 
 
 4.1 a
 Algoritmo Angulo_90_grados
