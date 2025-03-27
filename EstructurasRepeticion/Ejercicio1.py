@@ -1,3 +1,4 @@
+n = 0
 total = 0
 numero = 0
 suma = 0
@@ -8,6 +9,7 @@ while(total > 0):
     numero = int(input("Digite un número:"))
     suma += numero # suma = suma + numero
     total -= 1 #total = total - 1
+    n+=1
 
 #forma_1
 print("1. La suma de los " , str(n) , " números es: " , str(suma))
