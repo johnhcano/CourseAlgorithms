@@ -1,11 +1,9 @@
-n = 0
 total = 0
 numero = 0
 suma = 0
 
 #pedir n (cantidad de números) por teclado
-n = int(input("Cantidad de números:"))
-total = n
+total = int(input("Cantidad de números:"))
 while(total > 0):
     numero = int(input("Digite un número:"))
     suma += numero # suma = suma + numero
